@@ -87,4 +87,4 @@ make
 
 ## License
 
-No explicit license is specified in this repository.
+GPLV3
